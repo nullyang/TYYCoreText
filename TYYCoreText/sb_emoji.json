@@ -1,0 +1,147 @@
+{
+    "rc":"1",
+    "re":[
+          { "emojiname":"common_sb_emot01.png",
+          "emojimeaning":"微笑" 
+          }, 
+          { "emojiname":"common_sb_emot02.png",
+          "emojimeaning":"大笑" 
+          }, 
+          { "emojiname":"common_sb_emot03.png",
+          "emojimeaning":"鼓掌" 
+          },
+          { "emojiname":"common_sb_emot04.png",
+          "emojimeaning":"不说了" 
+          },
+          { "emojiname":"common_sb_emot05.png",
+          "emojimeaning":"为什么" 
+          },
+          { "emojiname":"common_sb_emot06.png",
+          "emojimeaning":"哭" 
+          },
+          { "emojiname":"common_sb_emot07.png",
+          "emojimeaning":"不屑" 
+          },
+          { "emojiname":"common_sb_emot08.png",
+          "emojimeaning":"怒" 
+          },
+          { "emojiname":"common_sb_emot09.png",
+          "emojimeaning":"滴汗" 
+          },
+          { "emojiname":"common_sb_emot10.png",
+          "emojimeaning":"拜神" 
+          },
+          { "emojiname":"common_sb_emot11.png",
+          "emojimeaning":"胜利" 
+          },
+          { "emojiname":"common_sb_emot12.png",
+          "emojimeaning":"亏大了" 
+          },
+          { "emojiname":"common_sb_emot13.png",
+          "emojimeaning":"赚大了" 
+          },
+          { "emojiname":"common_sb_emot14.png",
+          "emojimeaning":"牛" 
+          },
+          { "emojiname":"common_sb_emot15.png",
+          "emojimeaning":"俏皮" 
+          },
+          { "emojiname":"common_sb_emot16.png",
+          "emojimeaning":"傲" 
+          },
+          { "emojiname":"common_sb_emot17.png",
+          "emojimeaning":"好困惑" 
+          },
+          { "emojiname":"common_sb_emot18.png",
+          "emojimeaning":"兴奋" 
+          },
+          { "emojiname":"common_sb_emot19.png",
+          "emojimeaning":"赞" 
+          },
+          { "emojiname":"common_sb_emot20.png",
+          "emojimeaning":"不赞" 
+          },
+          { "emojiname":"common_sb_emot21.png",
+          "emojimeaning":"摊手" 
+          },
+          { "emojiname":"common_sb_emot22.png",
+          "emojimeaning":"好逊" 
+          },
+          { "emojiname":"common_sb_emot23.png",
+          "emojimeaning":"失望" 
+          },
+          { "emojiname":"common_sb_emot24.png",
+          "emojimeaning":"加油" 
+          },
+          { "emojiname":"common_sb_emot25.png",
+          "emojimeaning":"困顿" 
+          },
+          { "emojiname":"common_sb_emot26.png",
+          "emojimeaning":"想一下" 
+          },
+          {"emojiname":"common_sb_emot27.png",
+          "emojimeaning":"围观" 
+          },
+          { "emojiname":"common_sb_emot28.png",
+          "emojimeaning":"删除" 
+          },
+          { "emojiname":"common_sb_emot29.png",
+          "emojimeaning":"献花" 
+          },
+          { "emojiname":"common_sb_emot30.png",
+          "emojimeaning":"大便" 
+          },
+          { "emojiname":"common_sb_emot31.png",
+          "emojimeaning":"爱心" 
+          },
+          { "emojiname":"common_sb_emot32.png",
+          "emojimeaning":"心碎" 
+          },
+          { "emojiname":"common_sb_emot33.png",
+          "emojimeaning":"毛估估" 
+          },
+          { "emojiname":"common_sb_emot34.png",
+          "emojimeaning":"成交" 
+          },
+          { "emojiname":"common_sb_emot35.png",
+          "emojimeaning":"财力" 
+          },
+          { "emojiname":"common_sb_emot36.png",
+          "emojimeaning":"护城河" 
+          },
+          { "emojiname":"common_sb_emot37.png",
+          "emojimeaning":"复盘" 
+          },
+          { "emojiname":"common_sb_emot38.png",
+          "emojimeaning":"买入" 
+          },
+          { "emojiname":"common_sb_emot39.png",
+          "emojimeaning":"卖出" 
+          },
+          { "emojiname":"common_sb_emot40.png",
+          "emojimeaning":"满仓" 
+          },
+          { "emojiname":"common_sb_emot41.png",
+          "emojimeaning":"空仓" 
+          },
+          { "emojiname":"common_sb_emot42.png",
+          "emojimeaning":"抄底"
+          },
+          { "emojiname":"common_sb_emot43.png",
+          "emojimeaning":"看多"
+          },
+          { "emojiname":"common_sb_emot44.png",
+          "emojimeaning":"看空"
+          },
+          { "emojiname":"common_sb_emot45.png",
+          "emojimeaning":"加仓"
+          },
+          { "emojiname":"common_sb_emot46.png",
+          "emojimeaning":"减仓"
+          },
+          { "emojiname":"common_sb_emot47.png",
+          "emojimeaning":"删除"
+          }
+          
+          ]
+}
